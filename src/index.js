@@ -1,6 +1,6 @@
-import React from ' areact ';
-import ReactDOM from ' areact - dom / client ';
-import './ index . css ';
+import React from 'react ';
+import ReactDOM from 'react-dom/client';
+import './index.css';
 
 class Square extends React.Component {
     render() {
